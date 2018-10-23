@@ -1,0 +1,14 @@
+﻿  pch.cpp
+  common.cpp
+  Ping.cpp
+c:\users\administrator\source\repos\learnning\learnning\ping.cpp(76): warning C4018: “<”: 有符号/无符号不匹配
+  Scanner.cpp
+c:\users\administrator\source\repos\learnning\learnning\scanner.cpp(68): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\administrator\source\repos\learnning\learnning\scanner.cpp(144): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+  Socket.cpp
+c:\users\administrator\source\repos\learnning\learnning\socket.cpp(148): warning C4018: “>”: 有符号/无符号不匹配
+c:\users\administrator\source\repos\learnning\learnning\socket.cpp(201): warning C4018: “>”: 有符号/无符号不匹配
+  getpacket.cpp
+  源.cpp
+  正在生成代码...
+  learnning.vcxproj -> C:\Users\Administrator\source\repos\learnning\Debug\learnning.exe
